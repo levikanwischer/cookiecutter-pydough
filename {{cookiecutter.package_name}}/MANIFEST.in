@@ -1,0 +1,4 @@
+include README.rst
+recursive-exclude tests *
+recursive-include {{cookiecutter.package_name}}/data *
+exclude {{cookiecutter.package_name}}/data/.gitkeep

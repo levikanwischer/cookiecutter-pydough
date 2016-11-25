@@ -1,0 +1,19 @@
+{
+    "author_name": "Levi Kanwischer",
+    "author_email": "levi@kanwischer.me",
+
+    "package_name": "cookiecutter-pydough",
+    "package_description": "A basic Cookiecutter Python package template.",
+
+    "package_version": "0.0.1dev1",
+
+    "package_url": "https://github.com/levikanwischer/cookiecutter-pydough",
+
+    "open_source_license": [
+        "MIT license",
+        "BSD license",
+        "ISC license",
+        "Apache Software License 2.0",
+        "Not Open Source"
+    ]
+}

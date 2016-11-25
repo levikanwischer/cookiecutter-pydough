@@ -88,6 +88,3 @@ ENV/
 
 # Rope project settings
 .ropeproject
-
-# MacOS junk
-.DS_Store
