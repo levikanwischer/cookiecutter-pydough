@@ -15,7 +15,7 @@ $ cookiecutter https://github.com/levikanwischer/cookiecutter-pydough.git
 $ git init
 $ git add .
 $ git commit -m "Initial project template commit"
-$ git remote add origin remote repository URL
+$ git remote add origin REMOTE-REPOSITORY-URL.git
 $ git push -u origin master
 
 ```
