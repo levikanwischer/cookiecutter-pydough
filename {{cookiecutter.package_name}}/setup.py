@@ -105,11 +105,11 @@ setup(
 
     classifiers=[
         'Development Status :: 1 - Planning',
-        'Natural Language :: English',
         'Intended Audience :: Developers',
 {%- if cookiecutter.open_source_license in license_classifiers %}
         '{{license_classifiers[cookiecutter.open_source_license]}}',
 {%- endif %}
+        'Natural Language :: English',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2',
         'Programming Language :: Python :: 2.7',
